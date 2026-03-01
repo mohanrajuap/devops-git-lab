@@ -1,0 +1,1 @@
+<_io.TextIOWrapper name='C:/Users/raju2/OneDrive/Documents/py/log.txt' mode='w' encoding='cp1252'>
